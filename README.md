@@ -52,6 +52,9 @@ This system is ideal for:
 - **NFC Reader Hardware** – integrated via COM port
 
 ---
+---
+
+
 ## 🔌 Special Note for Future Developments
 
 ### Create New Account
@@ -85,19 +88,19 @@ Example: SMS_+941234567_Rs.100.00
 | Arduino → PC     | `MAIN_CARD_`       | Send NFC card number         |
 | Arduino → PC     | `MAIN_PSW_`        | Send PIN number              |
 
+
 ---
 
 ---
 
 ## 👤 Author
 
-Developed by [Akila Ranasinghe]  
+Designed & Developed by Akila Ranasinghe  
 📧 Contact: wmakilaranasinghe@gmail.com
 
----
 
 ## ©️ License & Copyright
 
-© 2018-2025 [Akila Ranasinghe]  
+Copyright © 2018-2025 Akila Ranasinghe [Spyder Innovations]  
 This project is open-source under the [Apache-2.0 license](LICENSE).  
 Feel free to use, modify, and distribute with attribution.
